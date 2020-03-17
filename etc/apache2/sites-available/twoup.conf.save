@@ -1,0 +1,18 @@
+<VirtualHost *:80>
+	ServerAdmin webmaster@twoup.loc
+	ServerName twoup.loc
+		DocumentRoot /home/adrian/www/twoup/public
+<Directory "/home/adrian/www/twoup/public">
+	RewriteEngine on
+	Options FollowSymlinks
+	AllowOverride All
+	Require all granted    
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule . index.php
+</Directory>
+	ServerAlias www.twoup.loc
+	ErrorLog ${APACHE_LOG_DIR}/twoup.loc.error.log
+	CustomLog ${APACHE_LOG_DIR}/twoup.loc.access.log combined
+</VirtualHost>
+

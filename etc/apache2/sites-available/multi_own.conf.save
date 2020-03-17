@@ -1,0 +1,21 @@
+<VirtualHost *:80>
+	ServerAdmin webmaster@multi-own.loc
+	ServerName multi-own.loc
+	DocumentRoot /home/adrian/www/multi-own/web
+	
+	<Directory "/home/adrian/www/multi-own/web">
+		RewriteEngine on
+		Options FollowSymlinks
+		AllowOverride All
+		Require all granted
+		RewriteCond %{REQUEST_FILENAME} !-f
+		RewriteCond %{REQUEST_FILENAME} !-d
+		RewriteRule . index.php
+	</Directory>
+
+	ServerAlias www.multi-own.loworldfoinvest-pay.dev
+
+	ErrorLog ${APACHE_LOG_DIR}/multi_own.loc.error.log
+	CustomLog ${APACHE_LOG_DIR}/multi_own.loc.access.log combined
+</VirtualHost>
+
