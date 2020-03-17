@@ -1,0 +1,102 @@
+127.0.0.1	localhost		supernova.loc		eclipse.loc	tradecapital.loc
+127.0.0.1	cherrygold.loc		exclusive.loc		twoup.loc	new-bovegas.loc
+127.0.0.1	api-for-fakes.loc	fake3.loc		test.loc	seo-dashboard.loc
+127.0.0.1       wordpress.loc		worldforinvest.loc
+
+# Multy
+127.0.0.1	multi-own.loc		worldfoinvest-pay.loc	unique-pay.loc	outsourcingeasy-pay.loc	fibo-pay.loc	payment-integration.loc	test-paiement.loc	global-scholar-pay.loc
+127.0.0.1	pay-plentygiving.loc	reddog-payment.loc
+# Multy end
+
+127.0.0.1	fibonetix.loc		www.fibonetix.loc
+
+127.0.0.1	freespin-new.loc		www.freespin-new.loc 
+127.0.0.1	bovegas.loc			www.bovegas.loc
+127.0.0.1	goldenlion.loc			www.goldenlion.loc
+127.0.0.1	domgame.loc			www.domgame.loc
+127.0.0.1	irishluck.loc			www.irishluck.loc
+127.0.0.1	red-dog.loc			www.red-dog.loc
+127.0.0.1       slots-empire.loc		www.slots-empire.loc
+127.0.0.1       nobel-trade.loc			www.nobel-trade.loc
+127.0.0.1       freespin-symfony.loc		www.freespin-symfony.loc
+127.0.0.1       cherrygold-symfony.loc		www.cherrygold-symfony.loc
+
+127.0.0.1       exclusive-new.loc		www.exclusive-new.loc
+#127.0.0.1	xmas.exclusivecasino.com
+
+127.0.0.1       eclipse-new.loc			www.eclipse-new.loc
+# 127.0.0.1	eclipsecasino-play.com
+
+127.0.0.1	billpayserv.loc			www.billpayserv.loc
+127.0.0.1       billpayserv-api.loc		www.billpayserv-api.loc
+127.0.0.1       billpayserv-back.loc		www.billpayserv-back.loc
+127.0.0.1       aussieplay.loc			www.aussieplay.loc
+127.0.0.1       forbslab.loc			www.forbslab.loc
+127.0.0.1       hr-tools.loc			www.hr-tools.loc
+127.0.0.1       888tiger.loc			www.888tiger.loc
+127.0.0.1       24vipcasino.loc			www.24vipcasino.loc
+127.0.0.1       superior.loc			www.superior.loc
+127.0.0.1	superiorshare.loc		www.superiorshare.loc
+127.0.0.1       email-checker.loc		www.email-checker.loc
+127.0.0.1       api.email-checker.loc		www.api.email-checker.loc
+127.0.0.1       local-storage-yii2.loc		www.api.email-checker.loc
+127.0.0.1	api.local-storage-yii2.loc	www.api.local-storage-yii2.loc
+
+
+
+127.0.0.1	test.loc
+
+127.0.1.1	localadmin-System-Product-Name 
+
+149.202.63.250 lost
+# 149.202.63.250  seo-dashboard.shinningcreation.com
+179.48.249.73		rival
+179.48.249.72		rtg
+94.130.115.197		clones
+159.69.182.122		worldforinvest
+195.201.92.54		tradecapital
+95.216.139.195		fibonetix
+
+# ssh with port 64002
+95.217.75.3		content_reddog
+
+116.203.116.148		nobeltrade
+94.130.115.201		devdeb.shinningcreation.com	devdeb	dev.hrtools.com
+138.201.214.179		shops
+142.44.227.137		outsource
+51.68.153.78		seo_server
+116.203.61.194		global-scholar
+51.79.19.147		casinotop1
+54.39.133.204		casinoaff
+116.203.95.163		billpayserv
+195.201.115.178		forbslab
+54.37.233.15		questmarketing
+49.56.106.134		pfm
+95.216.78.80		zeus2
+51.79.79.136		casinosuperior
+116.203.140.146		smartchecker
+195.201.242.233		localstorage
+116.203.180.71		dar
+
+# Seo Dashboard
+94.130.115.197		seo-dashboard.shinningcreation.com
+
+# 0.0.0.0		account.jetbrains.com	www.jetbrains.com
+1.2.3.4 account.jetbrains.com
+1.2.3.4 www.jetbrains.com 
+1.2.3.4 www-weighted.jetbrains.com
+0.0.0.0 account.jetbrains.com
+0.0.0.0 www.jetbrains.com
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+127.0.0.1	fz-ref.loc
+127.0.0.1	fz-lk.loc
+127.0.0.1	fz-api.loc
+
+# 143.202.163.5	mccauplayweb.aussieplay.com
