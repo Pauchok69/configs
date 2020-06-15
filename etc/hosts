@@ -4,8 +4,8 @@
 127.0.0.1       wordpress.loc		worldforinvest.loc
 
 # Multy
-127.0.0.1	multi-own.loc		worldfoinvest-pay.loc	unique-pay.loc	outsourcingeasy-pay.loc	fibo-pay.loc	payment-integration.loc	test-paiement.loc	global-scholar-pay.loc
-127.0.0.1	pay-plentygiving.loc	reddog-payment.loc
+127.0.0.1	multi-own.loc		worldfoinvest-pay.loc	unique-pay.loc		outsourcingeasy-pay.loc	fibo-pay.loc	payment-integration.loc	test-paiement.loc	global-scholar-pay.loc
+127.0.0.1	pay-plentygiving.loc	reddog-payment.loc	letsplaymarket-pay.loc
 # Multy end
 
 127.0.0.1	fibonetix.loc		www.fibonetix.loc
@@ -76,17 +76,18 @@
 51.79.79.136		casinosuperior
 116.203.140.146		smartchecker
 195.201.242.233		localstorage
-116.203.180.71		dar
+116.203.180.71		dar				stage.dar.questcreation.com
+139.162.201.45		ultimatech
 
 # Seo Dashboard
 94.130.115.197		seo-dashboard.shinningcreation.com
 
 # 0.0.0.0		account.jetbrains.com	www.jetbrains.com
-1.2.3.4 account.jetbrains.com
-1.2.3.4 www.jetbrains.com 
-1.2.3.4 www-weighted.jetbrains.com
-0.0.0.0 account.jetbrains.com
-0.0.0.0 www.jetbrains.com
+#1.2.3.4 account.jetbrains.com
+#1.2.3.4 www.jetbrains.com 
+#1.2.3.4 www-weighted.jetbrains.com
+#0.0.0.0 account.jetbrains.com
+#0.0.0.0 www.jetbrains.com
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
