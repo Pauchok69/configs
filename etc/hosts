@@ -27,20 +27,20 @@
 127.0.0.1       eclipse-new.loc			www.eclipse-new.loc
 # 127.0.0.1	eclipsecasino-play.com
 
-127.0.0.1	    billpayserv.loc			    www.billpayserv.loc
-127.0.0.1       billpayserv-api.loc		    www.billpayserv-api.loc
+127.0.0.1	billpayserv.loc			www.billpayserv.loc
+127.0.0.1       billpayserv-api.loc		www.billpayserv-api.loc
 127.0.0.1       billpayserv-back.loc		www.billpayserv-back.loc
-127.0.0.1       aussieplay.loc			    www.aussieplay.loc
-127.0.0.1       forbslab.loc			    www.forbslab.loc
-127.0.0.1       hr-tools.loc			    www.hr-tools.loc
-127.0.0.1       888tiger.loc			    www.888tiger.loc
-127.0.0.1       24vipcasino.loc			    www.24vipcasino.loc
-127.0.0.1       superior.loc			    www.superior.loc
-127.0.0.1	    superiorshare.loc		    www.superiorshare.loc
-127.0.0.1       email-checker.loc		    www.email-checker.loc
+127.0.0.1       aussieplay.loc			www.aussieplay.loc
+127.0.0.1       forbslab.loc			www.forbslab.loc
+127.0.0.1       hr-tools.loc			www.hr-tools.loc
+127.0.0.1       888tiger.loc			www.888tiger.loc
+127.0.0.1       24vipcasino.loc			www.24vipcasino.loc
+127.0.0.1       superior.loc			www.superior.loc
+127.0.0.1	superiorshare.loc		www.superiorshare.loc
+127.0.0.1       email-checker.loc		www.email-checker.loc
 127.0.0.1       api.email-checker.loc		www.api.email-checker.loc
 127.0.0.1       local-storage-yii2.loc		www.api.email-checker.loc
-127.0.0.1	    api.local-storage-yii2.loc	www.api.local-storage-yii2.loc
+127.0.0.1	api.local-storage-yii2.loc	www.api.local-storage-yii2.loc
 
 
 
@@ -48,7 +48,7 @@
 
 127.0.1.1	localadmin-System-Product-Name 
 
-149.202.63.250 lost
+149.202.63.250		lost
 # 149.202.63.250  seo-dashboard.shinningcreation.com
 179.48.249.73		rival
 179.48.249.72		rtg
@@ -71,20 +71,31 @@
 116.203.95.163		billpayserv
 195.201.115.178		forbslab
 54.37.233.15		questmarketing
-49.56.106.134		pfm
+
+# 49.56.106.134		pfm
+51.222.40.108		paymentsforme
+
 95.216.78.80		zeus2
 51.79.79.136		casinosuperior
 116.203.140.146		smartchecker
 195.201.242.233		localstorage
+
 # 116.203.180.71		dar     stage.dar.questcreation.com
 69.10.62.77		    dar     stage.dar.questcreation.com
-37.156.218.147      affaliance
 
-# From home use adrian.home as user
+
 139.162.201.45		ultimatech
+37.156.218.147		affaliance
 
 # Seo Dashboard
 94.130.115.197		seo-dashboard.shinningcreation.com
+
+# 0.0.0.0		account.jetbrains.com	www.jetbrains.com
+#1.2.3.4 account.jetbrains.com
+#1.2.3.4 www.jetbrains.com 
+#1.2.3.4 www-weighted.jetbrains.com
+#0.0.0.0 account.jetbrains.com
+#0.0.0.0 www.jetbrains.com
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
