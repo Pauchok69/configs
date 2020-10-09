@@ -92,6 +92,11 @@
 # Seo Dashboard
 94.130.115.197		seo-dashboard.shinningcreation.com
 
+# Monitoring. On port -p64100
+37.156.218.146      monitoring
+
+
+
 # 0.0.0.0		account.jetbrains.com	www.jetbrains.com
 #1.2.3.4 account.jetbrains.com
 #1.2.3.4 www.jetbrains.com 
