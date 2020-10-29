@@ -78,10 +78,11 @@
 95.216.78.80		zeus2
 51.79.79.136		casinosuperior
 116.203.140.146		smartchecker
-195.201.242.233		localstorage
+# 195.201.242.233	localstorage
+37.156.220.218      localstorage
 
-# 116.203.180.71		dar     stage.dar.questcreation.com
-69.10.62.77		    dar     stage.dar.questcreation.com
+# 116.203.180.71    dar     stage.dar.questcreation.com
+69.10.62.77         dar     stage.dar.questcreation.com
 
 
 139.162.201.45		ultimatech
