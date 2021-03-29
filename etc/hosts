@@ -1,115 +1,95 @@
-127.0.0.1	localhost		supernova.loc		eclipse.loc	tradecapital.loc
-127.0.0.1	cherrygold.loc		exclusive.loc		twoup.loc	new-bovegas.loc
-127.0.0.1	api-for-fakes.loc	fake3.loc		test.loc	seo-dashboard.loc
-127.0.0.1       wordpress.loc		worldforinvest.loc
+127.0.0.1   localhost              supernova.loc           eclipse.loc     tradecapital.loc
+127.0.0.1   cherrygold.loc         exclusive.loc           twoup.loc       new-bovegas.loc
+127.0.0.1   api-for-fakes.loc      fake3.loc               test.loc        seo-dashboard.loc
+127.0.0.1   wordpress.loc          worldforinvest.loc
 
-# Multy
-127.0.0.1	multi-own.loc		worldfoinvest-pay.loc	unique-pay.loc		outsourcingeasy-pay.loc	fibo-pay.loc	payment-integration.loc	test-paiement.loc	global-scholar-pay.loc
-127.0.0.1	pay-plentygiving.loc	reddog-payment.loc	letsplaymarket-pay.loc
-# Multy end
+# Multi
+127.0.0.1   multi-own.loc           worldfoinvest-pay.loc       unique-pay.loc          outsourcingeasy-pay.loc
+127.0.0.1   fibo-pay.loc            payment-integration.loc     test-paiement.loc       global-scholar-pay.loc
+127.0.0.1   pay-plentygiving.loc    reddog-payment.loc          letsplaymarket-pay.loc  payment-exclusive.loc
+127.0.0.1   api-payment-888tiger.loc
+# Multi end
 
-127.0.0.1	fibonetix.loc		www.fibonetix.loc
+127.0.0.1   freespin-new.loc        www.freespin-new.loc
+127.0.0.1   bovegas.loc             www.bovegas.loc
+127.0.0.1   goldenlion.loc          www.goldenlion.loc
+127.0.0.1   domgame.loc             www.domgame.loc
+127.0.0.1   irishluck.loc           www.irishluck.loc
+127.0.0.1   red-dog.loc             www.red-dog.loc
+127.0.0.1   slots-empire.loc        www.slots-empire.loc
+127.0.0.1   freespin-symfony.loc    www.freespin-symfony.loc
+127.0.0.1   cherrygold-symfony.loc  www.cherrygold-symfony.loc
+127.0.0.1   exclusive-new.loc       www.exclusive-new.loc
+127.0.0.1   eclipse-new.loc         www.eclipse-new.loc
+127.0.0.1   aussieplay.loc          www.aussieplay.loc
+127.0.0.1   888tiger.loc            www.888tiger.loc
+127.0.0.1   24vipcasino.loc         www.24vipcasino.loc
+127.0.0.1   superior.loc            www.superior.loc
+127.0.0.1   superiorshare.loc       www.superiorshare.loc
 
-127.0.0.1	freespin-new.loc		www.freespin-new.loc 
-127.0.0.1	bovegas.loc			www.bovegas.loc
-127.0.0.1	goldenlion.loc			www.goldenlion.loc
-127.0.0.1	domgame.loc			www.domgame.loc
-127.0.0.1	irishluck.loc			www.irishluck.loc
-127.0.0.1	red-dog.loc			www.red-dog.loc
-127.0.0.1       slots-empire.loc		www.slots-empire.loc
-127.0.0.1       nobel-trade.loc			www.nobel-trade.loc
-127.0.0.1       freespin-symfony.loc		www.freespin-symfony.loc
-127.0.0.1       cherrygold-symfony.loc		www.cherrygold-symfony.loc
+# HR tools
+127.0.0.1   hr-tools.loc            www.hr-tools.loc
 
-127.0.0.1       exclusive-new.loc		www.exclusive-new.loc
-#127.0.0.1	xmas.exclusivecasino.com
+# Smart Checker
+127.0.0.1   email-checker.loc       www.email-checker.loc
+127.0.0.1   api.email-checker.loc   www.api.email-checker.loc
 
-127.0.0.1       eclipse-new.loc			www.eclipse-new.loc
-# 127.0.0.1	eclipsecasino-play.com
+# BillPayServ
+127.0.0.1   billpayserv.loc         www.billpayserv.loc
+127.0.0.1   billpayserv-api.loc     www.billpayserv-api.loc
+127.0.0.1   billpayserv-back.loc    www.billpayserv-back.loc
 
-127.0.0.1	billpayserv.loc			www.billpayserv.loc
-127.0.0.1       billpayserv-api.loc		www.billpayserv-api.loc
-127.0.0.1       billpayserv-back.loc		www.billpayserv-back.loc
-127.0.0.1       aussieplay.loc			www.aussieplay.loc
-127.0.0.1       forbslab.loc			www.forbslab.loc
-127.0.0.1       hr-tools.loc			www.hr-tools.loc
-127.0.0.1       888tiger.loc			www.888tiger.loc
-127.0.0.1       24vipcasino.loc			www.24vipcasino.loc
-127.0.0.1       superior.loc			www.superior.loc
-127.0.0.1	superiorshare.loc		www.superiorshare.loc
-127.0.0.1       email-checker.loc		www.email-checker.loc
-127.0.0.1       api.email-checker.loc		www.api.email-checker.loc
-127.0.0.1       local-storage-yii2.loc		www.api.email-checker.loc
-127.0.0.1	api.local-storage-yii2.loc	www.api.local-storage-yii2.loc
-
-
-
-127.0.0.1	test.loc
-
-127.0.1.1	localadmin-System-Product-Name 
-
-149.202.63.250		lost
-# 149.202.63.250  seo-dashboard.shinningcreation.com
-179.48.249.73		rival
-179.48.249.72		rtg
-94.130.115.197		clones
-159.69.182.122		worldforinvest
-195.201.92.54		tradecapital
-95.216.139.195		fibonetix
+### SSH
+94.130.115.197      clones
 
 # ssh with port 64002
-95.217.75.3		content_reddog
+95.217.75.3         content_reddog
 
-116.203.116.148		nobeltrade
-94.130.115.201		devdeb.shinningcreation.com	devdeb	dev.hrtools.com
-138.201.214.179		shops
-142.44.227.137		outsource
-51.68.153.78		seo_server
-116.203.61.194		global-scholar
+94.130.115.201      devdeb.shinningcreation.com    devdeb    dev.hrtools.com
+51.68.153.78        seo_server
+
+138.201.214.179     shops
+142.44.227.137      outsource
+116.203.61.194      global-scholar
+158.69.28.148       letsplay
 
 ### Brands ###
-51.79.19.147		casinotop1
-54.39.133.204		casinoaff
-38.68.134.123       casinojack
-51.79.79.136		casinosuperior
+54.39.133.204       s01
+51.79.19.147        s02
+51.79.79.136        s03
+38.68.134.123       s04
 
-116.203.95.163		billpayserv
-195.201.115.178		forbslab
-54.37.233.15		questmarketing
+116.203.95.163      billpayserv
+54.37.233.15        questmarketing
 
-# 49.56.106.134		pfm
-51.222.40.108		paymentsforme
+# 49.56.106.134     pfm
+51.222.40.108       pfm
 
-95.216.78.80		zeus2
-116.203.140.146		smartchecker
-# 195.201.242.233	localstorage
+95.216.78.80        zeus2
+116.203.140.146     smartchecker
+
+# 195.201.242.233   localstorage
 37.156.220.218      localstorage
 
 # 116.203.180.71    dar     stage.dar.questcreation.com
-69.10.62.77         dar     stage.dar.questcreation.com
+69.10.62.77         dar     stage.dar.questcreation.com    wp-test-gen1.com    fake-test-gen1.com    stage.dar.mysolidtools.com
 
+37.156.218.147      affaliance
 
-139.162.201.45		ultimatech
-37.156.218.147		affaliance
-162.251.61.39       safebtc
-192.99.246.222      affblog
+# From home use adrian.home user
+139.162.201.45      ultimatech
 
 # Seo Dashboard
-94.130.115.197		seo-dashboard.shinningcreation.com
+94.130.115.197      seo-dashboard.shinningcreation.com
 
 # Monitoring. On port -p64100
 37.156.218.146      monitoring
 
 # Time Tracker
-37.156.218.150      tt
+37.156.218.150      tt  stage-tt.officeserves.me
 
-
-# 0.0.0.0		account.jetbrains.com	www.jetbrains.com
-#1.2.3.4 account.jetbrains.com
-#1.2.3.4 www.jetbrains.com 
-#1.2.3.4 www-weighted.jetbrains.com
-#0.0.0.0 account.jetbrains.com
-#0.0.0.0 www.jetbrains.com
+# Stage Server with docker
+37.156.218.152      dockertest
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
@@ -117,9 +97,3 @@ fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
-
-127.0.0.1	fz-ref.loc
-127.0.0.1	fz-lk.loc
-127.0.0.1	fz-api.loc
-
-# 143.202.163.5	mccauplayweb.aussieplay.com
