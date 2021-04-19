@@ -1,13 +1,11 @@
-127.0.0.1   localhost              supernova.loc           eclipse.loc     tradecapital.loc
-127.0.0.1   cherrygold.loc         exclusive.loc           twoup.loc       new-bovegas.loc
-127.0.0.1   api-for-fakes.loc      fake3.loc               test.loc        seo-dashboard.loc
-127.0.0.1   wordpress.loc          worldforinvest.loc
+127.0.0.1   localhost           supernova.loc   eclipse.loc     wordpress.loc
+127.0.0.1   cherrygold.loc      exclusive.loc   twoup.loc       new-bovegas.loc
+127.0.0.1   api-for-fakes.loc   fake3.loc       test.loc        seo-dashboard.loc
 
 # Multi
-127.0.0.1   multi-own.loc           worldfoinvest-pay.loc       unique-pay.loc          outsourcingeasy-pay.loc
-127.0.0.1   fibo-pay.loc            payment-integration.loc     test-paiement.loc       global-scholar-pay.loc
-127.0.0.1   pay-plentygiving.loc    reddog-payment.loc          letsplaymarket-pay.loc  payment-exclusive.loc
-127.0.0.1   api-payment-888tiger.loc
+127.0.0.1   multi-own.loc               unique-pay.loc      outsourcingeasy-pay.loc     api-payment-888tiger.loc
+127.0.0.1   payment-integration.loc     test-paiement.loc   global-scholar-pay.loc
+127.0.0.1   pay-plentygiving.loc        reddog-payment.loc  letsplaymarket-pay.loc      payment-exclusive.loc
 # Multi end
 
 127.0.0.1   freespin-new.loc        www.freespin-new.loc
