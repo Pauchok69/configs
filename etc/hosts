@@ -24,6 +24,7 @@
 127.0.0.1   24vipcasino.loc         www.24vipcasino.loc
 127.0.0.1   superior.loc            www.superior.loc
 127.0.0.1   superiorshare.loc       www.superiorshare.loc
+127.0.0.1   shazam.loc		    www.shazam.loc
 
 # HR tools
 127.0.0.1   hr-tools.loc            www.hr-tools.loc
@@ -37,13 +38,19 @@
 127.0.0.1   billpayserv-api.loc     www.billpayserv-api.loc
 127.0.0.1   billpayserv-back.loc    www.billpayserv-back.loc
 
+# Time Tracker
+127.0.0.1   tt.loc	www.tt.loc
+
 ### SSH
 94.130.115.197      clones
 
 # ssh with port 64002
 95.217.75.3         content_reddog
 
-94.130.115.201      devdeb.shinningcreation.com    devdeb    dev.hrtools.com
+### HR Tools ###
+# 94.130.115.201	devdeb.shinningcreation.com    devdeb    dev.hrtools.com
+10.10.20.16		hrtool
+
 51.68.153.78        seo_server
 
 138.201.214.179     shops
@@ -74,6 +81,10 @@
 
 37.156.218.147      affaliance
 
+# Toponepartners
+# -p 64011
+38.64.138.74	    content_reddog
+
 # From home use adrian.home user
 139.162.201.45      ultimatech
 
@@ -91,9 +102,16 @@
 
 # SharePoint
 10.10.3.15          shp.mimino.local    shp
-10.10.2.15          shpo.mimino.local   shpo
+10.10.2.15          shpo.mimino.local   shpot
+
+# AM tests
+138.201.204.242     demos
+
+51.91.221.152       mx.digitalshore.email
+::1             localhost
 
 # The following lines are desirable for IPv6 capable hosts
+
 ::1     ip6-localhost ip6-loopback
 fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
