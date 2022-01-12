@@ -24,7 +24,7 @@
 127.0.0.1   24vipcasino.loc         www.24vipcasino.loc
 127.0.0.1   superior.loc            www.superior.loc
 127.0.0.1   superiorshare.loc       www.superiorshare.loc
-127.0.0.1   shazam.loc		    www.shazam.loc
+127.0.0.1   shazam.loc		        www.shazam.loc
 
 # HR tools
 127.0.0.1   hr-tools.loc            www.hr-tools.loc
@@ -91,11 +91,14 @@
 # Seo Dashboard
 94.130.115.197      seo-dashboard.shinningcreation.com
 
-# Monitoring. On port -p64103
+# Monitoring. On port -p 64103
 37.156.218.146      monitoring
 
 # Time Tracker
 37.156.218.150      tt  stage-tt.officeserves.me
+
+# ITAM -p 64016
+51.195.131.36       itam
 
 # Stage Server with docker
 37.156.218.152      dockertest
