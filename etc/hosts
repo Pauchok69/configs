@@ -106,6 +106,7 @@
 # SharePoint
 10.10.3.15          shp.mimino.local    shp
 10.10.2.15          shpo.mimino.local   shpot
+10.10.2.10          shpn.mimino.local   shpn
 
 # AM tests
 138.201.204.242     demos
